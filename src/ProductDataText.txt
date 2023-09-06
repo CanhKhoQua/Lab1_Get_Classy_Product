@@ -1,0 +1,3 @@
+iphone, 000001, phone, 400.0
+acer, 000002, laptop, 900.0
+kindle, 000003, tablet, 200.0
